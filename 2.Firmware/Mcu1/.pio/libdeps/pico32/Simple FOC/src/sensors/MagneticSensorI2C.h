@@ -2,7 +2,7 @@
 #define MAGNETICSENSORI2C_LIB_H
 
 #include "Arduino.h"
-#include <C:/Users/Administrator/.platformio/packages/framework-arduinoespressif32@src-f10a7ed2306067c023b128ae96ba301b/libraries/Wire/src/Wire.h>
+#include <C:/Users/Admin/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h>
 #include "../common/base_classes/Sensor.h"
 #include "../common/foc_utils.h"
 #include "../common/time_utils.h"
