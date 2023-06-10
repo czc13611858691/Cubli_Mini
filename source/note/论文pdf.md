@@ -1,4 +1,4 @@
-# 简介
+# 论文pdf
 
 [论文1-Cubli_ECC2013.pdf](../file/Cubli_ECC2013.pdf)
 
