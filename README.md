@@ -1,3 +1,7 @@
+我的调试笔记
+
+https://czc13611858691.github.io/Cubli_Mini/
+
 # Cubli_Mini项目
 
 本项目ID是来源于苏黎世联邦理工学院的Cubli，电机驱动使用的是Simple FOC。低成本、小型化、简化后作为我的首个开源项目

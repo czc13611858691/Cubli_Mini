@@ -1,0 +1,6 @@
+# 简介
+
+[论文1-Cubli_ECC2013.pdf](../../5.Doc/%E8%AE%BA%E6%96%87/Cubli_ECC2013.pdf)
+[论文1-Cubli_IROS2012.pdf](../../5.Doc/%E8%AE%BA%E6%96%87/Cubli_IROS2012.pdf)
+[论文1-cubliCDC13.pdf](../../5.Doc/%E8%AE%BA%E6%96%87/cubliCDC13.pdf)
+[论文1-RevisedManuscript.pdf](../../5.Doc/%E8%AE%BA%E6%96%87/RevisedManuscript.pdf)

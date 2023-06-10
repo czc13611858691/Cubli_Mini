@@ -10,3 +10,4 @@ cubli_mini
    :maxdepth: 2
    :caption: Contents:
 
+   note/简介.md
