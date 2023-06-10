@@ -18,5 +18,4 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-	rm -rf docs
-	mv ./build/html docs
+	robocopy ./build/html docs /s /PURGE /MT:128 /ETA
